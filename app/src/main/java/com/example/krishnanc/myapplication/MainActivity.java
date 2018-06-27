@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void Initia(){
         int i=2+1;
+        int l=i+25;
+        int b=l+i;
     }
 
 }
